@@ -12,8 +12,8 @@ Actualmente estoy desarrollando una plataforma digital orientada al sector inmob
 * **Enfoque principal:** Optimizar la experiencia de usuario (UX) en la búsqueda de viviendas y agilizar el contacto con potenciales clientes utilizando herramientas potenciadas por IA.
 * **Habilidades aplicadas:** Diseño de interfaz, lógica de producto, gestión de bases de datos y prompts avanzados para desarrollo rápido.
 
-* **Link a la app:** [Ver plataforma inmobiliaria aquí] www.appcasa.com.ar
----
+* **Link a la app:** [Ver plataforma inmobiliaria aquí](https://www.appcasa.com.ar)
+
 
 ## 📬 Conectemos
 * **Email:** juliafisicaro@gmail.com
