@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Julia Fisicaro👋
 
-<!--
-**juliafisicaro/Juliafisicaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy creadora de aplicaciones e integradora de Inteligencia Artificial, enfocada en desarrollar soluciones digitales eficientes que resuelvan problemas reales de negocio. Me apasiona usar herramientas modernas y metodologías ágiles para acelerar el desarrollo y crear productos funcionales de alto impacto.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mi Proyecto Destacado: Plataforma Inmobiliaria Inteligente
+Actualmente estoy desarrollando una plataforma digital orientada al sector inmobiliario para modernizar la muestra y gestión de propiedades a través de contenido dinámico.
+
+* **Estado del proyecto:** En fase de desarrollo activo / optimización (próxima a lanzamiento comercial).
+* **Enfoque principal:** Optimizar la experiencia de usuario (UX) en la búsqueda de viviendas y agilizar el contacto con potenciales clientes utilizando herramientas potenciadas por IA.
+* **Habilidades aplicadas:** Diseño de interfaz, lógica de producto, gestión de bases de datos y prompts avanzados para desarrollo rápido.
+
+---
+
+## 📬 Conectemos
+* **Email:** juliafisicaro@gmail.com
